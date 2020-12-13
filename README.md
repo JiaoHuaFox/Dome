@@ -1,2 +1,1 @@
-# Dome
-联系的小Dome
+# Domelian'联系的小Dome
